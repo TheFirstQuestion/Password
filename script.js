@@ -1,12 +1,13 @@
 var passwords = {
-    "GEORGE!": "puzzle1.pdf",
-    "KATHERINE!": "puzzle2.pdf",
-    "I <3 U!": "puzzle3.pdf",
-    "PUZZLEPALOOZA!": "puzzle4.pdf",
-    "OLPNEE": "answer1.png",
-    "GNAPDC": "answer2.png",
-    "SHADOW": "answer3.png",
-    "HINT": "answer4.png"
+    "GEORGE!": "puzzle1.jpg",
+    "KATHERINE!": "puzzle2.jpg",
+    "I <3 U!": "puzzle3.jpg",
+    "PUZZLEPALOOZA!": "puzzle4.png",
+    "BEGIN!": "answer0.pdf",
+    "OLPNEE": "answer1.pdf",
+    "GNAPDC": "answer2.pdf",
+    "SHADOW": "answer3.pdf",
+    "HINT": "answer4.pdf"
 };
 
 $(document).on('keypress',function(e) {
