@@ -7,7 +7,11 @@ var passwords = {
     "OLPNEE": "answer1.pdf",
     "GNAPDC": "answer2.pdf",
     "SHADOW": "answer3.pdf",
-    "HINT": "answer4.pdf"
+    "HINT": "answer4.pdf",
+    "David": "line-2.png",
+    "Cat": "line-3.png",
+    "fliq": "line-4.png",
+    "tostitos hint of line": "fliq-staph-app.pdf"
 };
 
 $(document).on('keypress',function(e) {
